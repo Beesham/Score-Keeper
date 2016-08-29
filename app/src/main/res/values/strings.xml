@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="add_point">+1 Point</string>
+    <string name="won_game">Won Game</string>
+    <string name="games_won" translatable="true">Games won: </string>
+    <string name="reset_scores" translatable="true">reset scores</string>
+    <string name="reset_all" translatable="true">reset all</string>
+
+    <string name="main_activity_label" translatable="true">Score Keeper: Table Tennis</string>
+
+</resources>
